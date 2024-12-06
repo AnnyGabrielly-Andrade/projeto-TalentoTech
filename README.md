@@ -14,3 +14,8 @@ Criar uma aplicação simples para gerenciar tarefas do dia a dia.
 - **Dia 3:** Desenvolver a lógica do aplicativo usando JavaScript.
 - **Dia 4:** Testar e documentar o projeto.
 - **Dia 5:** Criar e publicar um site simples para apresentação.
+
+- git add README.md
+git commit -m "Adiciona planejamento inicial ao README.md"
+git push origin main
+
